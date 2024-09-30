@@ -1,5 +1,5 @@
 # This file predefines a few models that the user may want to install.
-sd-xl/main/airtist2-xl:
+sdxl/main/airtist2-xl:
   description: Airtist XL version 2 diffusers model (6.46 GB)
   repo_id: GraydientPlatformAPI/airtist2-xl
   recommended: True
