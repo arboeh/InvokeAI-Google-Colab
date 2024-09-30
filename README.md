@@ -6,7 +6,6 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab v3.0.1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BarrenWardo/Py-Books/blob/main/InvokeAI-Colab.ipynb) | InvokeAI Latest - @BarrenWardo
 
 ## Tutorial 
