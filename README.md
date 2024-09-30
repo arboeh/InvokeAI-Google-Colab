@@ -12,7 +12,6 @@
 ## Tutorial 
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/25f36aa3-e4da-4bef-a951-b8b6c6aff5d3)
 This is not an error or crash. We are intentionally restarting the colab. You don't need to do anything. Please execute the second cell.
-エラーやクラッシュではありません。われわれは意図的にコラボを再起動しています。何もする必要はありません。2番目のセルを実行してください。
 
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/a2c1dd61-bef8-4bc4-bd5c-3fe0c3d88d0c)
 When you see `http://127.0.0.1:9090` please click the link `http://random_text.remote.moe`
